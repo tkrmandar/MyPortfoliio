@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/tkrmandar/MyPortfoliio/static/css/main.f0e84136.css",
+    "main.js": "/tkrmandar/MyPortfoliio/static/js/main.3a521011.js",
+    "static/js/415.4d6acbeb.chunk.js": "/tkrmandar/MyPortfoliio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/tkrmandar/MyPortfoliio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/tkrmandar/MyPortfoliio/static/media/avatar.1f4173a1e1b07d9fcd8f.png",
+    "static/media/foodAppImg.png": "/tkrmandar/MyPortfoliio/static/media/foodAppImg.b561fb7252aa6c8fb1d9.png",
+    "static/media/simonImg.jpg": "/tkrmandar/MyPortfoliio/static/media/simonImg.3a0b794d53e404108550.jpg",
+    "static/media/home-main.svg": "/tkrmandar/MyPortfoliio/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/about.png": "/tkrmandar/MyPortfoliio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/MandarTerkhedkarResume1.pdf": "/tkrmandar/MyPortfoliio/static/media/MandarTerkhedkarResume1.ada264e5b3af87a6c009.pdf",
+    "static/media/chatImg.png": "/tkrmandar/MyPortfoliio/static/media/chatImg.e8a9b5d18826ce10326c.png",
+    "static/media/home-bg.jpg": "/tkrmandar/MyPortfoliio/static/media/home-bg.6cafb65f1abe1e4786aa.jpg",
+    "static/media/logo.png": "/tkrmandar/MyPortfoliio/static/media/logo.53202609f3e4614e8a28.png",
+    "static/media/pre.svg": "/tkrmandar/MyPortfoliio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/tkrmandar/MyPortfoliio/index.html",
+    "main.f0e84136.css.map": "/tkrmandar/MyPortfoliio/static/css/main.f0e84136.css.map",
+    "main.3a521011.js.map": "/tkrmandar/MyPortfoliio/static/js/main.3a521011.js.map",
+    "415.4d6acbeb.chunk.js.map": "/tkrmandar/MyPortfoliio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/tkrmandar/MyPortfoliio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0e84136.css",
+    "static/js/main.3a521011.js"
+  ]
+}
